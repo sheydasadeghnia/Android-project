@@ -1,2 +1,3 @@
-# Android-project
-The android Project for Automatic test
+# gitclass
+# battery
+# battery
